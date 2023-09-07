@@ -1,6 +1,6 @@
 # Arboles-Binarios-y-AVL
 
-## Karen Suarez
+## Karen Suárez
 ## David Cubillos Mendez
 ## William Cely López
 
